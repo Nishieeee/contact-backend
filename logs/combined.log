@@ -1,0 +1,19 @@
+2025-09-30 21:10:58 [WARN]: Invalid projectId attempted: portfolio
+2025-09-30 21:11:36 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 21:12:03 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 21:12:53 [WARN]: Invalid projectId attempted: 123
+2025-09-30 21:13:38 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 21:13:57 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 21:14:56 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 21:22:00 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 21:25:31 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 21:25:48 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 22:01:10 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 22:02:17 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 22:05:20 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 22:06:26 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 22:06:35 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 22:08:52 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 22:11:05 [WARN]: Invalid projectId attempted: my-portfolio
+2025-09-30 22:13:39 [ERROR]: Email error for projectId=my-portfolio: Missing credentials for "PLAIN"
+2025-09-30 22:44:40 [INFO]: Message sent from projectId=my-portfolio, email=pagaroganjhonclein@gmail.com
