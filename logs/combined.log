@@ -17,3 +17,7 @@
 2025-09-30 22:11:05 [WARN]: Invalid projectId attempted: my-portfolio
 2025-09-30 22:13:39 [ERROR]: Email error for projectId=my-portfolio: Missing credentials for "PLAIN"
 2025-09-30 22:44:40 [INFO]: Message sent from projectId=my-portfolio, email=pagaroganjhonclein@gmail.com
+2025-09-30 23:06:18 [WARN]: Missing fields in request for projectId=my-portfolio
+2025-09-30 23:06:30 [WARN]: Missing fields in request for projectId=my-portfolio
+2025-09-30 23:07:02 [WARN]: Missing fields in request for projectId=my-portfolio
+2025-09-30 23:08:49 [INFO]: Message sent from projectId=my-portfolio, email=Reznbayot@gmail.com
